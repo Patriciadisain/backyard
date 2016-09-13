@@ -1,0 +1,84 @@
+/* Tu CSS va aqui */
+.logo {
+	max-width: 100%;
+	width: 150px;
+	margin:0;
+	padding: 20px 0;
+}
+.menu ul li{
+	list-style: none;
+	display: inline;
+	float: left;
+	margin-top: 20px;
+}
+.menu a{
+	text-decoration: none;
+	color: #24760D;
+	padding: 20px;
+	font-family: 'Pacifico', cursive;
+	font-size: 26px;
+}
+section{
+		background-color:#24760D ;
+}
+
+section h2{
+	color: white;
+	font-family: 'Pacifico', cursive;
+	font-size: 40px;
+	max-width: 90%;
+}
+section p{
+	color: white;
+	font-family: 'Cabin', sans-serif;
+	font-size: 17px;
+	max-width: 90%;
+	margin-top: 20px;
+	margin-bottom: 25px;
+}
+.contacto{
+	background-color: black;
+	width: 300px;
+	padding: 20px;
+	margin-top: 20px;
+	border-radius: 30px;
+}
+.contacto h3{
+	color: white;
+	padding: 22px;
+	font-family: 'Pacifico', cursive;
+	font-size: 22px;
+	padding:10px;
+	text-align: center;
+}
+.contacto input{
+	font-family: 'Cabin', sans-serif;
+	padding: 10px 20px;
+	font-size: 15px;
+	margin: 10px 2px;
+	width: 100%;
+}
+.boton{
+	background-color: white;
+	border-radius: 10px;
+	font-family: 'Pacifico', cursive;
+	font-size: 22px;
+	padding:10px;
+	text-align: center;
+	margin-top: 10px;
+	color: #24760D;
+}
+a{
+	text-decoration: none;
+}
+footer{
+	background-color: black;
+}
+footer p{
+	font-family: 'cabin', sans-serif;
+	font-size: 16px;
+	padding:10px;
+	margin-top: 10px;
+	color: white;
+}
+
